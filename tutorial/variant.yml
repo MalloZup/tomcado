@@ -1,0 +1,14 @@
+01_gatto: !mux
+    gino:
+        age: 10
+    pina:
+        age: 20
+02_gatto: !mux
+    five:
+        sleep_length: 5
+    tre:
+        sleep_length: 3
+    four:
+        sleep_length: 4
+    two:
+        sleep_length: 2
